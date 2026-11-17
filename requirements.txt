@@ -1,0 +1,7 @@
+# Core dependencies
+Pillow>=10.0.0
+mutagen>=1.47.0
+
+# Optional voice-cloning backends (install the one you plan to use)
+# f5-tts>=1.1.0
+# elevenlabs>=1.0.0
